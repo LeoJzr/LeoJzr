@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeisser Leonardo Marquez
 - 👀 I’m interested in Front-end 
 - 🌱 I’m currently learning UX design
-- 💞️ I’m looking to collaborate on ...
+
 
 
 
