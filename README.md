@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeisser Leonardo Marquez
-- 👀 I’m interested in Front-end 
+- 👀 I’m interested in Web develop
 - 🌱 I’m currently learning UX design
 
 
